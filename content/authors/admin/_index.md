@@ -3,8 +3,8 @@
 title: Лушин Артём
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Артём
+last_name: Лушин
 
 # Status emoji
 status:
