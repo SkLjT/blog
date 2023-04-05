@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Лушин Артём
 
 # Full name (for SEO)
 first_name: Alice
