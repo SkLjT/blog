@@ -8,40 +8,37 @@ last_name: Лушин
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👑
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент Российского университета дружбы народов
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/?ysclid=lg3uddkp8z494292664
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: В сфере науки я предпочитаю изучать математику, программирование и нейронные сети. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Спорт
+  - Программирование
+  - Участие в жизни университета
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  обучение:
+    Среднее общее образование (с отличием)
+  год: 2022
+    Высшее образование ( бакалавриат Математика и механика)
+  год: 2022-2023
+    Высшее образование (бакалавриат Компьютерные науки)
+  год: 2023-2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,11 +71,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'lusin5745@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Лушин Артём - студент РУДН, начавший обучение на направлении "Математика и механика" (НММ), но по окончании первой сессии перевелся на направление "Компьютерные науки" (НКА). Владеет языком программирования: java, python, c++, nasm. Имеет два разряда КМС в спорте.
 {style="text-align: justify;"}
