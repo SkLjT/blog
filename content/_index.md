@@ -5,6 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
+
   - block: about.avatar
     id: about
     content:
@@ -14,23 +15,23 @@ sections:
       text:
   - block: features
     content:
-      title: Skills
+      title: Опыт
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Программирование
+          description: 60%
+          icon: binary-circle-check
+          icon_pack: fad
+        - name: Геймерство
+          description: 80%
+          icon: gamepad
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Спорт
+          description: 99%
+          icon: volleyball
           icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Опыт
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -40,33 +41,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Cоздание приложения
+          company: Создавал приложение для себя
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: java
+          location: Москва
+          date_start: '2019-01-01'
+          date_end: '2019-09-01'
           description: |2-
-              Responsibilities include:
+              Этапы создания:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Обучение языку javascript
+              * Создание приложения для смартфонов на Android 
+              * Проверка на разных устройствах
+        - title: Репетиторство
+          company: Частный репетитор
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: person-chalkboard-solid
+          location: Москва
+          date_start: '2022-01-01'
+          date_end: ''
+          description: Подготовка учеников для сдачи ЕГЭ,ОГЭ и ВПР
     design:
       columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Достижения'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -76,30 +77,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://bronschool2.edumsko.ru/
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
+          date_start: '2022-05-29'
+          description: 'Окончил школу с красным аттестатом и золотой медалью'
+          organization: Школа
+          organization_url:
+          title: Окончание школы
+          url: 'https://bronschool2.edumsko.ru/'
+        - certificate_url: http://russwimming.ru/?ysclid=lg70j6yomz5502642
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_start: '2018-07-01'
+          description: Получил разряд "Кондидат в мастера спорта" по плаванию
+          organization: ВФП
+          organization_url: http://russwimming.ru/?ysclid=lg70j6yomz5502642
+          title: Плавание
+          url: http://russwimming.ru/?ysclid=lg70j6yomz5502642
+        - certificate_url: https://rowingrussia.ru/
+          date_end: '2020-10-07'
+          date_start: '2018-09-01'
+          description: Получил разряд "Кондидат в мастера спорта" по гребле каноэ
+          organization: ФГСР
+          organization_url: https://rowingrussia.ru/
+          title: Гребля на каноэ
+          url: https://rowingrussia.ru/
     design:
       columns: '2'
   - block: collection
@@ -252,3 +253,4 @@ sections:
     design:
       columns: '2'
 ---
+
