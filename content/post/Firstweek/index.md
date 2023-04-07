@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Прошедшая неделя"
+title: "Первая неделя"
 subtitle: "В этом посте я расскажу об одной из самых приятных недель за этот год."
 summary: "В этом посте я расскажу об одной из самых приятных недель за этот год."
 authors: []
@@ -25,7 +25,7 @@ authors:
   - admin
 
 tags:
-  - Academic
+  - week
 
 categories:
   - Demo

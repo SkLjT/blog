@@ -17,10 +17,10 @@ sections:
     content:
       title: Опыт
       items:
-        - name: Программирование
-          description: 60%
-          icon: binary-circle-check
-          icon_pack: fad
+        - name: Программированние
+          description: 80%
+          icon: computer
+          icon_pack: fas
         - name: Геймерство
           description: 80%
           icon: gamepad

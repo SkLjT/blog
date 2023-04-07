@@ -25,7 +25,7 @@ authors:
   - admin
 
 tags:
-  - Academic
+  - education
 
 categories:
   - Demo
