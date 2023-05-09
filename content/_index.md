@@ -168,7 +168,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Избранные публикации 
       filters:
         folders:
           - publication
