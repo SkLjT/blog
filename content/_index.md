@@ -159,7 +159,7 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: Галерея
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -175,7 +175,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: car
   - block: collection
     content:
       title: Recent Publications

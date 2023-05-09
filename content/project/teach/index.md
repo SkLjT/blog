@@ -13,18 +13,18 @@ external_link: ""
 image:
   caption: []
   focal_point: Smart
+links:
+  - icon: vk
+    icon_pack: fab
+    name: Личная страница
+    url: https://vk.com/lusin05
   
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+
 ---
 Расскажу немного про репетиторство. 
 Самое тяжелое - это найти подход к ученикам. Я занимался репетиторством для 9 классов, так как ОГЭ решается за пол часа и его легко можно объяснить, в отличии от ЕГЭ, которое даже для меня довольно трудное.
