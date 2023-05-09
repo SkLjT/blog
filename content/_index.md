@@ -178,7 +178,7 @@ sections:
       view: car
   - block: collection
     content:
-      title: Recent Publications
+      title: Последние публикации
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
