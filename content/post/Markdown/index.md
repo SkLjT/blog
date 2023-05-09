@@ -25,7 +25,8 @@ authors:
   - admin
 
 tags:
-  - education
+  - Учеба
+  - Программирование
 
 categories:
   - Demo

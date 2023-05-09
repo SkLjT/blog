@@ -26,7 +26,7 @@ publishDate: 2023-05-09T16:45:59+03:00
 authors: 
 - admin
 tags: 
-- учеба
+- Учеба
 
 # Is this a featured event? (true/false)
 featured: false

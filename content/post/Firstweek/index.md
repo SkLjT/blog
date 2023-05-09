@@ -25,7 +25,7 @@ authors:
   - admin
 
 tags:
-  - week
+  - Отдых
 
 categories:
   - Demo
